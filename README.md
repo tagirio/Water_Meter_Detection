@@ -17,4 +17,4 @@
 Результаты инференса модели через OpenCV.DNN 60-70 ms
 
 
-![image](https://github.com/user-attachments/assets/b47e1fae-6d41-4739-930b-362c1393c59e)
+![image](https://github.com/user-attachments/assets/881ee303-60f0-41c1-b415-4996d31db2e1)
